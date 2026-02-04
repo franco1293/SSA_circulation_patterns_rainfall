@@ -1,6 +1,6 @@
 Description of files:
 
-- 1-circulation_patterns_clustering.R: PCA + k-means clustering of ERA5 850-hPa wind fields (u/v)
+- 1-circulation_patterns_clustering.R: obtention of CPs by PCA + k-means clustering of ERA5 850-hPa wind fields (u/v)
 
 - 2-rainfall_anomalies_by_CP.R: CPC precipitation anomaly composites by circulation patterns (CPs) 
 derived from 850-hPa wind clustering (PCA + k-means). 
