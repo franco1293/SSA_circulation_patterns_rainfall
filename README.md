@@ -15,3 +15,13 @@ analysis (annual/seasonal) with Monte Carlo significance.
 climate variability indices with significance test
 
 - 6-linear_trends_CPs.R: compute sen's slope for CPs frequency (seasonal/annual) and significance test
+
+- 7-MJO_association.R: compute and test the percentage of CP days conditioned by a MJO phase
+
+- 8-SACZ_association.R: compute and test the percentage of CP days conditioned by a SACZ phase
+
+- 9-MJO_ENSO_association.R: compute and test the percentage of CP days conditioned by a MJO + ENSO 
+phases combination
+
+- 10-SACZ-ENSO_association.R: compute and test the percentage of CP days conditioned by a SACZ + ENSO 
+phases combination
